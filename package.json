@@ -1,0 +1,14 @@
+{
+  "name": "mlbb-valid-checker",
+  "version": "1.0.0",
+  "description": "A simple Mobile Legends account validity checker.",
+  "main": "mlbbchecker.js",
+  "scripts": {
+    "start": "node mlbbchecker.js"
+  },
+  "dependencies": {
+    "axios": "^latest",
+    "fs": "^latest",
+    "readline": "^latest"
+  }
+}
